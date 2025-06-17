@@ -1,0 +1,2 @@
+C:/Users/VennDev/OneDrive/Desktop/spendify/android/app/.cxx/RelWithDebInfo/1e2h6v6y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/VennDev/OneDrive/Desktop/spendify/android/app/.cxx/RelWithDebInfo/1e2h6v6y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

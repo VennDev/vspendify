@@ -1,0 +1,2 @@
+C:/Users/VennDev/OneDrive/Desktop/spendify/android/app/.cxx/Debug/4a604h62/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/VennDev/OneDrive/Desktop/spendify/android/app/.cxx/Debug/4a604h62/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,778 @@
+{
+    "@@locale": "vi",
+    "title_error": "Lỗi",
+    "@title_error": {
+        "description": "A title for error messages"
+    },
+    "title_success": "Thành công",
+    "@title_success": {
+        "description": "A title for success messages"
+    },
+    "this_week": "Tuần này",
+    "@this_week": {
+        "description": "Label for the current week"
+    },
+    "this_month": "Tháng này",
+    "@this_month": {
+        "description": "Label for the current month"
+    },
+    "this_year": "Năm nay",
+    "@this_year": {
+        "description": "Label for the current year"
+    },
+    "last_week": "Tuần trước",
+    "@last_week": {
+        "description": "Label for the previous week"
+    },
+    "last_month": "Tháng trước",
+    "@last_month": {
+        "description": "Label for the previous month"
+    },
+    "last_year": "Năm ngoái",
+    "@last_year": {
+        "description": "Label for the previous year"
+    },
+    "monday": "Thứ Hai",
+    "@monday": {
+        "description": "Label for Monday"
+    },
+    "tuesday": "Thứ Ba",
+    "@tuesday": {
+        "description": "Label for Tuesday"
+    },
+    "wednesday": "Thứ Tư",
+    "@wednesday": {
+        "description": "Label for Wednesday"
+    },
+    "thursday": "Thứ Năm",
+    "@thursday": {
+        "description": "Label for Thursday"
+    },
+    "friday": "Thứ Sáu",
+    "@friday": {
+        "description": "Label for Friday"
+    },
+    "saturday": "Thứ Bảy",
+    "@saturday": {
+        "description": "Label for Saturday"
+    },
+    "sunday": "Chủ Nhật",
+    "@sunday": {
+        "description": "Label for Sunday"
+    },
+    "january": "Tháng Một",
+    "@january": {
+        "description": "Label for January"
+    },
+    "february": "Tháng Hai",
+    "@february": {
+        "description": "Label for February"
+    },
+    "march": "Tháng Ba",
+    "@march": {
+        "description": "Label for March"
+    },
+    "april": "Tháng Tư",
+    "@april": {
+        "description": "Label for April"
+    },
+    "may": "Tháng Năm",
+    "@may": {
+        "description": "Label for May"
+    },
+    "june": "Tháng Sáu",
+    "@june": {
+        "description": "Label for June"
+    },
+    "july": "Tháng Bảy",
+    "@july": {
+        "description": "Label for July"
+    },
+    "august": "Tháng Tám",
+    "@august": {
+        "description": "Label for August"
+    },
+    "september": "Tháng Chín",
+    "@september": {
+        "description": "Label for September"
+    },
+    "october": "Tháng Mười",
+    "@october": {
+        "description": "Label for October"
+    },
+    "november": "Tháng Mười Một",
+    "@november": {
+        "description": "Label for November"
+    },
+    "december": "Tháng Mười Hai",
+    "@december": {
+        "description": "Label for December"
+    },
+    "email_and_password_required": "Email và mật khẩu là bắt buộc.",
+    "@email_and_password_required": {
+        "description": "Error message when email and password are not provided"
+    },
+    "email_and_password_name_required": "Email, mật khẩu và tên là bắt buộc.",
+    "@email_and_password_name_required": {
+        "description": "Error message when email and password are not provided with name"
+    },
+    "error_while_fetching_data_user": "Lỗi khi lấy dữ liệu người dùng.",
+    "@error_while_fetching_data_user": {
+        "description": "Error message when there is an issue fetching user data"
+    },
+    "error_not_found_data_user": "Không tìm thấy dữ liệu người dùng.",
+    "@error_not_found_data_user": {
+        "description": "Error message when user data is not found"
+    },
+    "error_occurs_unexpectedly": "Đã xảy ra lỗi không mong muốn.",
+    "@error_occurs_unexpectedly": {
+        "description": "General error message for unexpected issues"
+    },
+    "login_success": "Đăng nhập thành công.",
+    "@login_success": {
+        "description": "Message displayed when login is successful"
+    },
+    "login_failed": "Đăng nhập thất bại.",
+    "@login_failed": {
+        "description": "Message displayed when login fails"
+    },
+    "logout_success": "Đăng xuất thành công.",
+    "@logout_success": {
+        "description": "Message displayed when logout is successful"
+    },
+    "cannot_fetch_transaction_data": "Không thể lấy dữ liệu giao dịch.",
+    "@cannot_fetch_transaction_data": {
+        "description": "Error message when transaction data cannot be fetched"
+    },
+    "value_money_required": "Số tiền là bắt buộc.",
+    "@value_money_required": {
+        "description": "Error message when value money is not provided"
+    },
+    "value_money_invalid": "Số tiền không hợp lệ.",
+    "@value_money_invalid": {
+        "description": "Error message when value money is not valid"
+    },
+    "title_required": "Tiêu đề là bắt buộc.",
+    "@title_required": {
+        "description": "Error message when title is not provided"
+    },
+    "choose_category_required": "Việc chọn danh mục là bắt buộc.",
+    "@choose_category_required": {
+        "description": "Error message when a category is not selected"
+    },
+    "the_transaction_was_created_successfully": "Giao dịch đã được tạo thành công.",
+    "@the_transaction_was_created_successfully": {
+        "description": "Message displayed when a transaction is created successfully"
+    },
+    "cannot_create_transaction": "Không thể tạo giao dịch.",
+    "@cannot_create_transaction": {
+        "description": "Error message when a transaction cannot be created"
+    },
+    "the_transaction_was_deleted_successfully": "Giao dịch đã được xóa thành công.",
+    "@the_transaction_was_deleted_successfully": {
+        "description": "Message displayed when a transaction is deleted successfully"
+    },
+    "the_transaction_cannot_be_deleted": "Không thể xóa giao dịch.",
+    "@the_transaction_cannot_be_deleted": {
+        "description": "Error message when a transaction cannot be deleted"
+    },
+    "the_transaction_was_updated_successfully": "Giao dịch đã được cập nhật thành công.",
+    "@the_transaction_was_updated_successfully": {
+        "description": "Message displayed when a transaction is updated successfully"
+    },
+    "cannot_update_transaction": "Không thể cập nhật giao dịch.",
+    "@cannot_update_transaction": {
+        "description": "Error message when a transaction cannot be updated"
+    },
+    "cannot_update_balance": "Không thể cập nhật số dư.",
+    "@cannot_update_balance": {
+        "description": "Error message when the balance cannot be updated"
+    },
+    "investment": "Đầu tư",
+    "@investment": {
+        "description": "Label for investment category"
+    },
+    "health": "Sức khỏe",
+    "@health": {
+        "description": "Label for health category"
+    },
+    "bills_and_fees": "Hóa đơn & Phí",
+    "@bills_and_fees": {
+        "description": "Label for bills and fees category"
+    },
+    "food_and_drink": "Thức ăn & Đồ uống",
+    "@food_and_drink": {
+        "description": "Label for food and drink category"
+    },
+    "car": "Xe",
+    "@car": {
+        "description": "Label for car category"
+    },
+    "groceries": "Tạp hóa",
+    "@groceries": {
+        "description": "Label for groceries category"
+    },
+    "gifts": "Quà tặng",
+    "@gifts": {
+        "description": "Label for gifts category"
+    },
+    "transport": "Giao thông",
+    "@transport": {
+        "description": "Label for transport category"
+    },
+    "unknown": "Không xác định",
+    "@unknown": {
+        "description": "Label for unknown category"
+    },
+    "income": "Thu nhập",
+    "@income": {
+        "description": "Label for income category"
+    },
+    "expense": "Chi tiêu",
+    "@expense": {
+        "description": "Label for expense category"
+    },
+    "thousand": "Nghìn",
+    "@thousand": {
+        "description": "Label for thousand"
+    },
+    "million": "Triệu",
+    "@million": {
+        "description": "Label for million"
+    },
+    "billion": "Tỷ",
+    "@billion": {
+        "description": "Label for billion"
+    },
+    "dont_have_account": "Chưa có tài khoản?",
+    "@dont_have_account": {
+        "description": "Text prompting users to register if they don't have an account"
+    },
+    "register": "Đăng ký",
+    "@register": {
+        "description": "Button text for navigating to the registration screen"
+    },
+    "login_title": "Đăng nhập",
+    "@login_title": {
+        "description": "Title of the login screen"
+    },
+    "email_label": "Email",
+    "@email_label": {
+        "description": "Label for the email input field"
+    },
+    "email_hint": "youremail@email.com",
+    "@email_hint": {
+        "description": "Hint text for the email input field"
+    },
+    "password_label": "Mật khẩu",
+    "@password_label": {
+        "description": "Label for the password input field"
+    },
+    "password_hint": "*************",
+    "@password_hint": {
+        "description": "Hint text for the password input field"
+    },
+    "login_button": "Đăng nhập",
+    "@login_button": {
+        "description": "Text for the login button"
+    },
+    "logging_in_button": "Đang đăng nhập...",
+    "@logging_in_button": {
+        "description": "Text for the login button when loading"
+    },
+    "already_have_account": "Đã có tài khoản?",
+    "@already_have_account": {
+        "description": "Text prompting users to log in if they already have an account"
+    },
+    "register_title": "Tạo tài khoản",
+    "@register_title": {
+        "description": "Title of the register screen"
+    },
+    "name_label": "Tên",
+    "@name_label": {
+        "description": "Label for the name input field"
+    },
+    "name_hint": "Nguyễn Văn A",
+    "@name_hint": {
+        "description": "Hint text for the name input field"
+    },
+    "register_button": "Đăng ký",
+    "@register_button": {
+        "description": "Text for the register button"
+    },
+    "processing_button": "Đang xử lý...",
+    "@processing_button": {
+        "description": "Text for the register button when loading"
+    },
+    "welcome_message": "Chào mừng,",
+    "@welcome_message": {
+        "description": "Greeting text displayed above the user's name"
+    },
+    "fallback_initials": "??",
+    "@fallback_initials": {
+        "description": "Fallback text for user initials when the username is empty"
+    },
+    "recent_transactions": "Giao dịch gần đây",
+    "@recent_transactions": {
+        "description": "Label for the section showing recent transactions",
+        "type": "text"
+    },
+    "view_all": "Xem tất cả",
+    "@view_all": {
+        "description": "Button label to view all transactions",
+        "type": "text"
+    },
+    "no_transactions_yet": "Bạn chưa có giao dịch nào",
+    "@no_transactions_yet": {
+        "description": "Message displayed when there are no transactions",
+        "type": "text"
+    },
+    "add_first_transaction": "Thêm giao dịch đầu tiên của bạn",
+    "@add_first_transaction": {
+        "description": "Button label to prompt adding the first transaction",
+        "type": "text"
+    },
+    "overview": "Tổng quan",
+    "@overview": {
+        "description": "Label for the overview section of the home screen",
+        "type": "text"
+    },
+    "load_more": "Tải thêm",
+    "@load_more": {
+        "description": "Button label to load more transactions",
+        "type": "text"
+    },
+    "control_spending_today": "Kiểm soát chi tiêu của bạn hôm nay!",
+    "@control_spending_today": {
+        "description": "Main headline on the get started screen encouraging users to manage their spending",
+        "type": "text"
+    },
+    "discover_smarter_tracking": "Khám phá cách theo dõi chi tiêu thông minh hơn với VSpendify.",
+    "@discover_smarter_tracking": {
+        "description": "Description text promoting the app's spending tracking feature",
+        "type": "text"
+    },
+    "get_started": "Bắt đầu",
+    "@get_started": {
+        "description": "Button label to start using the app",
+        "type": "text"
+    },
+    "profile": "Hồ sơ",
+    "@profile": {
+        "description": "Title for the profile screen",
+        "type": "text"
+    },
+    "user_information": "Thông tin người dùng",
+    "@user_information": {
+        "description": "Label for the user information section",
+        "type": "text"
+    },
+    "balance": "Số dư",
+    "@balance": {
+        "description": "Label for the balance section",
+        "type": "text"
+    },
+    "success": "Thành công",
+    "@success": {
+        "description": "Title for the success toast message",
+        "type": "text"
+    },
+    "logged_out_successfully": "Đăng xuất thành công",
+    "@logged_out_successfully": {
+        "description": "Message displayed in the toast when logout is successful",
+        "type": "text"
+    },
+    "log_out": "Đăng xuất",
+    "@log_out": {
+        "description": "Button label for logging out",
+        "type": "text"
+    },
+    "all": "Tất cả",
+    "@all": {
+        "description": "Filter label for displaying all transactions",
+        "type": "text"
+    },
+    "weekly": "Hàng tuần",
+    "@weekly": {
+        "description": "Filter label for displaying transactions within a week",
+        "type": "text"
+    },
+    "monthly": "Hàng tháng",
+    "@monthly": {
+        "description": "Filter label for displaying transactions within a month",
+        "type": "text"
+    },
+    "transactions": "Giao dịch",
+    "@transactions": {
+        "description": "Title for the all transactions screen",
+        "type": "text"
+    },
+    "all_transactions": "Tất cả giao dịch",
+    "@all_transactions": {
+        "description": "Label for displaying the date range when all transactions are selected",
+        "type": "text"
+    },
+    "no_transactions_found": "Không tìm thấy giao dịch",
+    "@no_transactions_found": {
+        "description": "Message displayed when no transactions are found",
+        "type": "text"
+    },
+    "edit_transaction": "Chỉnh sửa giao dịch",
+    "@edit_transaction": {
+        "description": "Title for the edit transaction screen",
+        "type": "text"
+    },
+    "amount": "Số tiền",
+    "@amount": {
+        "description": "Label for the transaction amount input field",
+        "type": "text"
+    },
+    "description": "Mô tả",
+    "@description": {
+        "description": "Label for the transaction description input field",
+        "type": "text"
+    },
+    "save_and_change": "Lưu và thay đổi",
+    "@save_and_change": {
+        "description": "Button label for saving changes to a transaction",
+        "type": "text"
+    },
+    "select_year": "Chọn năm",
+    "@select_year": {
+        "description": "Label for the year selection dialog",
+        "type": "text"
+    },
+    "apply": "Áp dụng",
+    "@apply": {
+        "description": "Button label to confirm year selection",
+        "type": "text"
+    },
+    "financial_statistics": "Thống kê tài chính",
+    "@financial_statistics": {
+        "description": "Title for the statistics screen",
+        "type": "text"
+    },
+    "monthly_trends": "Xu hướng hàng tháng",
+    "@monthly_trends": {
+        "description": "Label for the monthly trends section",
+        "type": "text"
+    },
+    "savings_increasing": "Tiết kiệm của bạn đang tăng",
+    "@savings_increasing": {
+        "description": "Message indicating an increase in savings",
+        "type": "text"
+    },
+    "savings_improvement": "Bạn đã cải thiện tỷ lệ tiết kiệm {percentage}% so với tháng trước",
+    "@savings_improvement": {
+        "description": "Message showing the percentage improvement in savings compared to the previous month",
+        "type": "text",
+        "placeholders": {
+            "percentage": {}
+        }
+    },
+    "current_balance": "Số dư hiện tại",
+    "@current_balance": {
+        "description": "Label for the current balance card",
+        "type": "text"
+    },
+    "available_to_spend": "Có thể chi tiêu",
+    "@available_to_spend": {
+        "description": "Label indicating a positive balance",
+        "type": "text"
+    },
+    "negative_balance": "Số dư âm",
+    "@negative_balance": {
+        "description": "Label indicating a negative balance",
+        "type": "text"
+    },
+    "income_vs_expense": "Thu nhập so với Chi tiêu",
+    "@income_vs_expense": {
+        "description": "Label for the income vs expense chart section",
+        "type": "text"
+    },
+    "spending_breakdown": "Phân tích chi tiêu",
+    "@spending_breakdown": {
+        "description": "Label for the spending breakdown section",
+        "type": "text"
+    },
+    "top_categories": "Danh mục hàng đầu",
+    "@top_categories": {
+        "description": "Label for the top categories section",
+        "type": "text"
+    },
+    "food_and_dining": "Ăn uống",
+    "@food_and_dining": {
+        "description": "Category name for food and dining expenses",
+        "type": "text"
+    },
+    "shopping": "Mua sắm",
+    "@shopping": {
+        "description": "Category name for shopping expenses",
+        "type": "text"
+    },
+    "housing": "Nhà ở",
+    "@housing": {
+        "description": "Category name for housing expenses",
+        "type": "text"
+    },
+    "transportation": "Giao thông",
+    "@transportation": {
+        "description": "Category name for transportation expenses",
+        "type": "text"
+    },
+    "entertainment": "Giải trí",
+    "@entertainment": {
+        "description": "Category name for entertainment expenses",
+        "type": "text"
+    },
+    "personal": "Cá nhân",
+    "@personal": {
+        "description": "Category name for personal expenses",
+        "type": "text"
+    },
+    "education": "Giáo dục",
+    "@education": {
+        "description": "Category name for education expenses",
+        "type": "text"
+    },
+    "travel": "Du lịch",
+    "@travel": {
+        "description": "Category name for travel expenses",
+        "type": "text"
+    },
+    "utilities": "Tiện ích",
+    "@utilities": {
+        "description": "Category name for utilities expenses",
+        "type": "text"
+    },
+    "salary": "Lương",
+    "@salary": {
+        "description": "Category name for salary income",
+        "type": "text"
+    },
+    "business": "Kinh doanh",
+    "@business": {
+        "description": "Category name for business income or expenses",
+        "type": "text"
+    },
+    "transaction_details": "Chi tiết giao dịch",
+    "@transaction_details": {
+        "description": "Title for the transaction details screen",
+        "type": "text"
+    },
+    "delete_transaction": "Xóa giao dịch",
+    "@delete_transaction": {
+        "description": "Title for the delete transaction confirmation dialog",
+        "type": "text"
+    },
+    "confirm_delete_transaction": "Bạn có chắc chắn muốn xóa giao dịch này không?",
+    "@confirm_delete_transaction": {
+        "description": "Message in the delete transaction confirmation dialog",
+        "type": "text"
+    },
+    "cancel": "Hủy",
+    "@cancel": {
+        "description": "Button label to cancel the delete action",
+        "type": "text"
+    },
+    "delete": "Xóa",
+    "@delete": {
+        "description": "Button label to confirm deletion of a transaction",
+        "type": "text"
+    },
+    "category": "Danh mục",
+    "@category": {
+        "description": "Label for the transaction category field",
+        "type": "text"
+    },
+    "type": "Loại",
+    "@type": {
+        "description": "Label for the transaction type field",
+        "type": "text"
+    },
+    "date": "Ngày",
+    "@date": {
+        "description": "Label for the transaction date field",
+        "type": "text"
+    },
+    "bills": "Hóa đơn",
+    "@bills": {
+        "description": "Category name for bills expenses",
+        "type": "text"
+    },
+    "other": "Khác",
+    "@other": {
+        "description": "Category name for other expenses",
+        "type": "text"
+    },
+    "password": "Mật khẩu",
+    "@password": {
+        "description": "Label for the password input field in the admin confirmation dialog",
+        "type": "text"
+    },
+    "confirm": "Xác nhận",
+    "@confirm": {
+        "description": "Button label to confirm an action in a dialog",
+        "type": "text"
+    },
+    "error": "Lỗi",
+    "@error": {
+        "description": "Default title for error toast notifications",
+        "type": "text"
+    },
+    "error_message_placeholder": "Thêm thông báo lỗi của bạn ở đây",
+    "@error_message_placeholder": {
+        "description": "Default message for error toast notifications",
+        "type": "text"
+    },
+    "success_message_placeholder": "Thêm thông báo thành công của bạn ở đây",
+    "@success_message_placeholder": {
+        "description": "Default message for success toast notifications",
+        "type": "text"
+    },
+    "title_home": "Trang chủ",
+    "@title_home": {
+        "description": "Title for the home screen",
+        "type": "text"
+    },
+    "title_statistics": "Thống kê",
+    "@title_statistics": {
+        "description": "Title for the statistics screen",
+        "type": "text"
+    },
+    "no_transactions_in_year": "Không có giao dịch nào trong năm này",
+    "@no_transactions_in_year": {
+        "description": "Message displayed when there are no transactions for the selected year",
+        "type": "text"
+    },
+    "total": "Tổng",
+    "@total": {
+        "description": "Label for the total amount of transactions in a category",
+        "type": "text"
+    },
+    "income_amount": "Số tiền thu nhập",
+    "@income_amount": {
+        "description": "Label for the income amount input field",
+        "type": "text"
+    },
+    "expense_amount": "Số tiền chi tiêu",
+    "@expense_amount": {
+        "description": "Label for the expense amount input field",
+        "type": "text"
+    },
+    "receipt_or_salary": "Biên lai hoặc tiền lương",
+    "@receipt_or_salary": {
+        "description": "Category name for receipt or salary transactions",
+        "type": "text"
+    },
+    "food_or_drink": "Thức ăn hoặc đồ uống",
+    "@food_or_drink": {
+        "description": "Category name for food or drink transactions",
+        "type": "text"
+    },
+    "vehicle": "Xe",
+    "@vehicle": {
+        "description": "Category name for vehicle-related transactions",
+        "type": "text"
+    },
+    "gift": "Tặng quà",
+    "@gift": {
+        "description": "Category name for gift transactions",
+        "type": "text"
+    },
+    "transaction_date": "Ngày giao dịch",
+    "@transaction_date": {
+        "description": "Label for the transaction date input field",
+        "type": "text"
+    },
+    "enter_transaction_name": "Nhập tên giao dịch",
+    "@enter_transaction_name": {
+        "description": "Hint text for the transaction name input field",
+        "type": "text"
+    },
+    "add_transaction": "Thêm giao dịch",
+    "@add_transaction": {
+        "description": "Button label to submit a new transaction",
+        "type": "text"
+    },
+    "processing": "Đang xử lý...",
+    "@processing": {
+        "description": "Text displayed on the submit button while processing a transaction",
+        "type": "text"
+    },
+    "total_balance": "Tổng số dư",
+    "@total_balance": {
+        "description": "Label for the total balance display",
+        "type": "text"
+    },
+    "hide": "Ẩn",
+    "@hide": {
+        "description": "Label for hiding the balance amount",
+        "type": "text"
+    },
+    "show": "Hiện",
+    "@show": {
+        "description": "Label for showing the balance amount",
+        "type": "text"
+    },
+    "saving": "Tiết kiệm",
+    "@saving": {
+        "description": "Label for the saving category",
+        "type": "text"
+    },
+    "forgot_password_title": "Quên mật khẩu",
+    "@forgot_password_title": {
+        "description": "Title for the forgot password screen",
+        "type": "text"
+    },
+    "send_reset_link": "Gửi liên kết đặt lại mật khẩu",
+    "@send_reset_link": {
+        "description": "Button label to send a password reset link",
+        "type": "text"
+    },
+    "sending_reset_link": "Đang gửi liên kết đặt lại mật khẩu...",
+    "@sending_reset_link": {
+        "description": "Text displayed on the send reset link button while processing",
+        "type": "text"
+    },
+    "forgot_password_subtitle": "Nhập email của bạn để nhận liên kết đặt lại mật khẩu.",
+    "@forgot_password_subtitle": {
+        "description": "Subtitle for the forgot password screen",
+        "type": "text"
+    },
+    "update_password": "Cập nhật mật khẩu",
+    "@update_password": {
+        "description": "Title for the update password screen",
+        "type": "text"
+    },
+    "updating_password": "Đang cập nhật mật khẩu...",
+    "@updating_password": {
+        "description": "Text displayed on the update password button while processing",
+        "type": "text"
+    },
+    "reset_password_subtitle": "Nhập mật khẩu mới của bạn để đặt lại mật khẩu.",
+    "@reset_password_subtitle": {
+        "description": "Subtitle for the reset password screen",
+        "type": "text"
+    },
+    "reset_password_title": "Đặt lại mật khẩu",
+    "@reset_password_title": {
+        "description": "Title for the reset password screen",
+        "type": "text"
+    },
+    "password_updated_successfully": "Mật khẩu đã được cập nhật thành công.",
+    "@password_updated_successfully": {
+        "description": "Message displayed when the password is updated successfully",
+        "type": "text"
+    },
+    "cannot_find_token": "Không thể tìm thấy mã thông báo đặt lại mật khẩu.",
+    "@cannot_find_token": {
+        "description": "Error message when the token for password reset is not found",
+        "type": "text"
+    },
+    "cannot_proccess_request": "Không thể xử lý yêu cầu.",
+    "@cannot_proccess_request": {
+        "description": "Error message when the request cannot be processed",
+        "type": "text"
+    }
+}
